@@ -52,7 +52,17 @@ git checkout -b add-my-profile
 
 ## Make necessary changes and commit those changes
 
-Now open `person.json` file in a text editor, add your name, image, and reason why you code to it. Now, save the file. 
+Now open `person.json` file in a text editor, add your name, image, and reason why you code to it. in the below format inside the square 
+brackets [] and save your changes.
+```
+  {
+    "firstname": "Your firstname here",
+    "lastname": "Your lastname here",
+    "image": "/starter_project/assets/image/<your_image_name.ext>",
+    "word": "Reason why you learn to code"
+  },  
+```
+Now, save the file. 
 
 <img align="right" width="450" src="./assets/image/status.jpg" alt="git status" />
 
