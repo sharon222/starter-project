@@ -1,6 +1,6 @@
 {
     "students":[
-        {
+         {
             "firstname": "Ladyjoy",
             "lastname": "Nwala",
             "image": "assets/image/lady.jpg",
@@ -11,7 +11,14 @@
             "lastname": "Adegbe",
             "image": "assets/image/girl.jpg",
             "word": "To develop sites"  
-          }
+          },
+          {
+
+            "firstname" : "Alade Nosirat",
+            "lastname" : "Akanke",
+            "image" : "assets/image/nosirat.jpg",
+            "word" : "It is challenging and fun" 
+         }
     ]
 }
 
