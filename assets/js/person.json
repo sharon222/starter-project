@@ -1,10 +1,31 @@
 {
     "students":[
-        {
-       "firstname": "Oreoluwa Adeniji",
-       "lastname": "Eunice",
-        "image": "assets/image/ore.jpg",
-        "word": "It is inspiring and motivating"
+         {
+            "firstname": "Ladyjoy",
+            "lastname": "Nwala",
+            "image": "assets/image/lady.jpg",
+            "word": "To solve problems"
+          },
+          {
+            "firstname": "Hope",
+            "lastname": "Adegbe",
+            "image": "assets/image/girl.jpg",
+            "word": "To develop sites"  
+          },
+          {
+
+            "firstname" : "Alade Nosirat",
+            "lastname" : "Akanke",
+            "image" : "assets/image/nosirat.jpg",
+            "word" : "It is challenging and fun" 
+         },
+         {
+           "firstname": "Oreoluwa Adeniji",
+           "lastname": "Eunice",
+           "image": "assets/image/ore.jpg",
+           "word": "It is inspiring and motivating"
         }
+
     ]
 }
+
