@@ -18,7 +18,14 @@
             "lastname" : "Akanke",
             "image" : "assets/image/nosirat.jpg",
             "word" : "It is challenging and fun" 
-         }
+         },
+         {
+           "firstname": "Oreoluwa Adeniji",
+           "lastname": "Eunice",
+           "image": "assets/image/ore.jpg",
+           "word": "It is inspiring and motivating"
+        }
+
     ]
 }
 
