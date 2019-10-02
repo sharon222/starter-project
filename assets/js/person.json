@@ -5,6 +5,12 @@
             "lastname": "Nwala",
             "image": "assets/image/lady.jpg",
             "word": "To solve problems"
+          },
+          {
+            "firstname": "Hope",
+            "lastname": "Adegbe",
+            "image": "assets/image/girl.jpg",
+            "word": "To develop sites"  
           }
     ]
 }
