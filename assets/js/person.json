@@ -1,5 +1,10 @@
 {
     "students":[
-        
+        {
+            "firstname": "Hope",
+            "lastname": "Adegbe",
+            "image": "/starter_project/assets/image/girl.jpg",
+            "word": "I learn to code to develop sites"
+          }
     ]
 }
