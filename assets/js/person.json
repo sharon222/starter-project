@@ -3,7 +3,7 @@
         {
             "firstname" : "Alade Nosirat",
             "lastname" : "Akanke",
-            "image" : "/starter_project/assets/image/nosirat.jpg",
+            "image" : "assets/image/nosirat.jpg",
             "word" : "It is challenging and fun" 
         }
      ]
