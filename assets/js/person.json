@@ -24,7 +24,13 @@
            "lastname": "Eunice",
            "image": "assets/image/ore.jpg",
            "word": "It is inspiring and motivating"
-        }
+        },
+        {
+          "firstname": " Sharon",
+          "lastname": "Akinlalu",
+          "image": "assets/image/code.jpeg",
+          "word": "It is inspiring"
+       }
 
     ]
 }
