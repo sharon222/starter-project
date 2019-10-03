@@ -6,14 +6,14 @@
 Make sure you have Git installed, If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
 ## Fork this repository
-<img align="right" width="300" src="./assets/image/fork.jpg" alt="fork this repository" />
+<img align="right" width="300" src="./assets/image/fork.JPG" alt="fork this repository" />
 
 Fork this repo by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="./assets/image/clone.jpg" alt="clone this repository" />
+<img align="right" width="300" src="./assets/image/clone.JPG" alt="clone this repository" />
 
 Now clone the forked repo to your machine. Go to your GitHub account, open the forked repo, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -24,7 +24,7 @@ git clone "url you just copied"
 ```
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="./assets/image/clipboard.jpg" alt="copy URL to clipboard" />
+<img align="right" width="300" src="./assets/image/clipboard.JPG" alt="copy URL to clipboard" />
 
 For example:
 ```
@@ -64,7 +64,7 @@ brackets [] and save your changes.
 ```
 Now, save the file. 
 
-<img align="right" width="450" src="./assets/image/status.jpg" alt="git status" />
+<img align="right" width="450" src="./assets/image/status.JPG" alt="git status" />
 
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes. 
@@ -93,11 +93,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button.  Click on that button.
 
-<img style="float: right;" src="./assets/image/compare-and-pull.jpg" alt="create a pull request" />
+<img style="float: right;" src="./assets/image/compare-and-pull.JPG" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="./assets/image/submit-pull-request.jpg" alt="submit pull request" />
+<img style="float: right;" src="./assets/image/submit-pull-request.JPG" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
